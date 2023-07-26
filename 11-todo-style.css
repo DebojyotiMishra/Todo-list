@@ -11,7 +11,7 @@
 .todo-grid, 
 .todo-input-grid {
     display: grid;
-    grid-template-columns: 200px 120px 100px;
+    grid-template-columns: 200px 100px 100px;
     gap: 10px;
     align-items: center;
 }
